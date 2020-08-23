@@ -1,6 +1,6 @@
 {
   "name": "sedano",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js app using Express 4",
   "engines": {
     "node": "^6.9.1"
